@@ -8,3 +8,15 @@
   <img src="https://github.com/aritrartira/Football-Statistics-Visualisations/blob/main/imgs/1.png" width="350" height = "350" align="centre" title="This is me!">
 </p>
 
+## Pizza Charts to show a player's percentile rank for different player-level statistics
+
+<p align="center">
+  <img src="https://github.com/aritrartira/Football-Statistics-Visualisations/blob/main/imgs/2.png" width="350" height = "350" align="centre" title="This is me!">
+</p>
+
+## Tile Charts to visualise the contribution of each player in a team for a particular statistic
+
+<p align="center">
+  <img src="https://github.com/aritrartira/Football-Statistics-Visualisations/blob/main/imgs/3.png" width="350" height = "350" align="centre" title="This is me!">
+</p>
+
