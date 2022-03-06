@@ -5,6 +5,6 @@
 ## Radar Charts to show different player-level statistics
 
 <p align="center">
-  <img src="https://github.com/aritrartira/Football-Statistics-Visualisations/blob/main/imgs/1.png" width="170" height = "170" align="centre" title="This is me!">
+  <img src="https://github.com/aritrartira/Football-Statistics-Visualisations/blob/main/imgs/1.png" width="250" height = "250" align="centre" title="This is me!">
 </p>
 
